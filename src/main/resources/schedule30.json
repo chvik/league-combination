@@ -1,0 +1,22 @@
+[
+    ["Puskás", "ZTE"],
+    ["Újpest", "MTK"],
+    ["Fehérvár", "FTC"],
+    ["Kisvárda", "DVTK"],
+    ["Budafok", "Paks"],
+    ["Honvéd", "Mezőkövesd"],
+
+    ["FTC", "Mezőkövesd"],
+    ["Paks", "Puskás"],
+    ["ZTE", "Kisvárda"],
+    ["MTK", "Fehérvár"],
+    ["Budafok", "Honvéd"],
+    ["DVTK", "Újpest"],
+
+    ["DVTK", "Fehérvár"],
+    ["Kisvárda", "Paks"],
+    ["Mezőkövesd", "MTK"],
+    ["Puskás", "Budafok"],
+    ["Újpest", "ZTE"],
+    ["Honvéd", "FTC"]
+]

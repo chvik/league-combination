@@ -18,9 +18,9 @@ fun main(args: Array<String>) {
     }
 }
 
-val STANDING_PATH = "/standing29.json"
+val STANDING_PATH = "/standing30.json"
 
-val SCHEDULE_PATH = "/schedule29.json"
+val SCHEDULE_PATH = "/schedule30.json"
 
 data class Data(val standing: Standing, val schedule: Schedule)
 
